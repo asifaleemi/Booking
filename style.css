@@ -1,0 +1,49 @@
+.fleg{
+    height: 15px;
+    width: 15px;
+}
+
+.container-fluid{
+    height: 350px;
+}
+.get-inf{
+    bottom: 20px;
+    left: 100px;
+    right: 100px;
+}
+.offer-img{
+    height: 200px;
+
+}
+.offer-img> img{
+    width: 100%;
+}
+.offer-text{
+    top: 20px;
+    left: 30px;
+}
+.trending >div > img{
+    height: 250px;
+    width: 100%;
+    /* transform: scale(1.2); */
+}
+.trending-city{
+    top: 20px;
+    left: 20px;
+}
+
+.trending-city > span > img {
+    height: 20px;
+    width: 20px;
+}
+.property > div > img{
+    height:150px ; 
+}
+.property > div >{
+    overflow: hidden;
+}
+.Explore > div > img{
+    height: 150px;
+}
+
+
